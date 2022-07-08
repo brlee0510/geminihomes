@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+
+#social {
+	margin: 0px;
+	float: right;
+	width: 150px;
+}
+
+.text {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	line-height: 22px;
+	font-weight: normal;
+}
+p {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	line-height: 22px;
+	font-weight: normal;
+}
+.newstext {
+	font-size: 14px;
+	line-height: 24px;
+	text-align: left;
+	font-family: "Century Gothic";
+	padding-left: 20px;
+}
+
+.links {
+	font-family: "Century Gothic";
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.header {
+	font-family: "Century Gothic";
+	font-size: 36px;
+	font-weight: bold;
+	font-variant: normal;
+	color: #9D0000;
+}
+.btm {
+	font-family: "Century Gothic";
+	font-size: 24px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.textwhite {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	line-height: 22px;
+	color: #FFFFFF;
+	text-align: left;
+}
+h2 {
+	font-family: "Century Gothic";
+	font-size: 18px;
+	font-weight: normal;
+	color: #FFF;
+}
+h3 {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	font-weight: bold;
+	color: #9D0000;
+}
+h1 {
+	font-family: 'Courgette', cursive;	
+	font-size: 24px;
+	color: #9D0000;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.newstext strong {
+	color: #9C0001;
+}
+.newstext {
+	color: #000;
+}
+strong {
+	font-family: "Century Gothic";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	color: #9D0000;
+}
+.textwhite p strong {
+	color: #FFF;
+}
+.style6 {
+	font-family: "Century Gothic";
+}
+.style6 {
+	font-size: 14px;
+}
+body {
+	background-color: #9D0000;
+}
+	
+#marqueecontainer{
+	position: relative;
+	width: 175px; /*marquee width */
+	height: 250px; /*marquee height */
+	overflow: hidden;
+	border: 0px solid #666666;
+	padding: 2px;
+	padding-left: 4px;
+	background-position: top;
+}
+.scroll_div {
+	border:solid 0px #3366FF;
+	width: 175px;
+	width/**/: 175px !important;
+}
+.vmarquee_content {
+	position:absolute;
+	font-size:12px;
+	font-family:Century Gothic;
+}
+#yui_3_7_2_1_1362497084607_49 #yui_3_7_2_1_1362497084607_139 #yiv862712056 #yui_3_7_2_1_1362497084607_138 #yui_3_7_2_1_1362497084607_137 #yui_3_7_2_1_1362497084607_136 #yui_3_7_2_1_1362497084607_135 #yui_3_7_2_1_1362497084607_134 #yui_3_7_2_1_1362497084607_133 #yui_3_7_2_1_1362497084607_132 #yui_3_7_2_1_1362497084607_131 #yui_3_7_2_1_1362497084607_130 #yui_3_7_2_1_1362497084607_129 #yui_3_7_2_1_1362497084607_128 #yui_3_7_2_1_1362497084607_127 #yui_3_7_2_1_1362497084607_126 #yui_3_7_2_1_1362497084607_125 #yui_3_7_2_1_1362497084607_124 #yui_3_7_2_1_1362497084607_123 #yui_3_7_2_1_1362497084607_122 div p {
+	text-align: left;
+}
